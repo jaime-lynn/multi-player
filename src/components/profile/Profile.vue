@@ -27,16 +27,16 @@
       <div class="card-content white-text">
         <div class="row">
           <div class="col s12 m6">
-            <div>
+            <div class="center">
               <img v-if="activeProfile.avatar" :src="activeProfile.avatar" class="avatar">
               <img v-if="!activeProfile.avatar" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=200%C3%97200&w=200&h=200" class="avatar">
             </div>
-            <div>
+            <div class="center">
               {{ activeProfile.bio }}
             </div>
           </div>
           <div class="col s12 m6">
-            <h5>{{ activeProfile.username }}'s Games</h5>
+            <h5 class="center">{{ activeProfile.username }}'s Games</h5>
             <div class="scrollable">
               <ul>
                 <li v-for="game in activeProfile.games">

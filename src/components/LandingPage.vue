@@ -8,15 +8,15 @@
         <div class="section blue-grey darken-2 center">
             <div class="row container">
                 <h3 class="header">It's dangerous to go alone!</h3>
-                <div class="col s4">
+                <div class="col s12 m4">
                     <h5><i class="fa fa-users"></i> Make Friends</h5>
                     <p>Connect with others who play the same games as you! Bond over similiar interests.</p>
                 </div>
-                <div class="col s4">
+                <div class="col s12 m4">
                     <h5><i class="fa fa-steam-square"></i> Import Your Library*</h5>
                     <p>Connect your Steam account to be able to import your library! It makes connecting a breeze.</p>
                 </div>
-                <div class="col s4">
+                <div class="col s12 m4">
                     <h5><i class="fa fa-gamepad"></i> Play</h5>
                     <p>Find friends for obscure titles and the current hits! Say goodbye to having nobody to play with.</p>
                 </div>
