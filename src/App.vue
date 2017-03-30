@@ -49,10 +49,6 @@
     margin-bottom: 7px;
   }
   
-  .input-field label {
-    color: #cfcfcf;
-  }
-  
   .input-field input[type=text]:focus+label {
     color: #b4b0ff;
   }
